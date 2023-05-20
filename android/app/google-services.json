@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "740898234755",
+    "project_id": "shoppo-8a3e0",
+    "storage_bucket": "shoppo-8a3e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740898234755:android:c581df6be998f082ae96b6",
+        "android_client_info": {
+          "package_name": "com.example.shopping_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740898234755-s3efa2u33vardm5gbp2ggnim0iljp3ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9SRx3M0uDALWelr6N1tFO2SeD60A14lY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740898234755-s3efa2u33vardm5gbp2ggnim0iljp3ve.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "740898234755-1ud15ds856t9qmnts6aevemloggfl256.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shoppingApplication.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
