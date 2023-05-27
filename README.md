@@ -1,4 +1,4 @@
-Sure! Here's an example of a Flutter application that integrates Firebase for user authentication using Firebase Authentication and data storage using Cloud Firestore:
+
 
 1. Set up Firebase:
    - Create a new Flutter project and add the necessary dependencies in your `pubspec.yaml` file for Firebase Authentication and Cloud Firestore.
